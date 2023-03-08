@@ -44,22 +44,3 @@ for(let i=0; i <listaDeTeclas.length; i++) {
 
     }
 }
-    //     if(event.code === 'Enter' || event.code === 'NumpadEnter') {
-    //         if(event.code === 'Enter') {
-    //             contadorDeEnter++;
-    //             if (contadorDeEnter >= 2) { 
-    //                event.preventDefault(); 
-    //             }
-    //         }
-    //         tecla.classList.add('ativa');
-    //     }
-
-    // }
-
-    // tecla.onkeyup = function () {
-	// 	tecla.classList.remove('ativa');
-    //     contadorDeEnter = 0;
-    // }
-
-
-//}
